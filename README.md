@@ -1,16 +1,32 @@
-## Hi there 👋
+# Grupo de Desenvolvimento de Sistemas - ETEC
 
-<!--
-**etecvav26-1C2-03/etecvav26-1C2-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Repositório de organização e acesso aos projetos acadêmicos desenvolvidos ao longo do curso técnico em Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+## Integrantes
+- Felipe Barbosa Santos  
+- Gabriel Barbarine  
+- Eduardo Bargueiras  
+- Guilherme Lakonski  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Repositórios do Grupo
+
+Os projetos estão organizados por disciplina:
+
+- **Portfolio PA (Programação e Algoritmos)**  
+  https://github.com/etecvav26-1C2-03/portfolio-pa
+
+- **Portfolio SE (Engenharia de Software)**  
+  https://github.com/etecvav26-1C2-03/portfolio-se
+
+- **Portfolio PW (Programação Web)**  
+  https://github.com/etecvav26-1C2-03/portfolio-pw
+
+
+
+## Objetivo
+
+Centralizar e organizar os projetos desenvolvidos em aula, facilitando o acompanhamento das atividades e evolução ao longo do curso.
+
+## Observação
+
+Este perfil tem finalidade acadêmica.
