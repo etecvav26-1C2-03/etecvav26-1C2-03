@@ -15,7 +15,7 @@ Os projetos estão organizados por disciplina:
 - **Portfolio PA (Programação e Algoritmos)**  
   https://github.com/etecvav26-1C2-03/portfolio-pa
 
-- **Portfolio SE (Engenharia de Software)**  
+- **Portfolio SE (Sistemas Embarcados)**  
   https://github.com/etecvav26-1C2-03/portfolio-se
 
 - **Portfolio PW (Programação Web)**  
