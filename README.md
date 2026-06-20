@@ -33,7 +33,7 @@ Repositório de organização e acesso aos projetos acadêmicos desenvolvidos ao
 | [Portfolio PA (Programação e Algoritmos)](https://github.com/etecvav26-1C2-03/portfolio-pa) | Repositório com execícios de várias linguagens | C++ e Python |
 | [Portfolio PW (Programação Web)](https://github.com/etecvav26-1C2-03/portfolio-pw) | Repositório com sites feitos por nós | HTML5 e CSS3 e JAVASCRIPT |
 | [Portfolio SE (Sistemas Embarcados e IoT)](https://github.com/etecvav26-1C2-03/portfolio-se) | Repositório com programas do arduino | C++ |
-| [Portfolio BD (Banco de Dados)]() | Repositório com exercícios de DER e MR | SQL |
+| [Portfolio BD (Banco de Dados)](https://github.com/etecvav26-1C2-03/portifolio-bd) | Repositório com exercícios de DER e MR | SQL |
 
 
 ---
