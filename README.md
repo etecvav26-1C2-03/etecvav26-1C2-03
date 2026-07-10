@@ -1,63 +1,60 @@
-<div align="center">
+<p align="center">
+  <img src="Logos/logo-devsden-banner.png" width="100%">
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Poppins&size=32&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=750&height=70&lines=Devs'+Den;Desenvolvimento+de+Sistemas+%7C+ETECVAV)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0D0D0D&text=Sobre%20Nós&fontColor=FF6B00&fontSize=40&fontAlign=50&fontAlignY=40" width="100%"/>
 
-</div>
+<h1 align="center">
+  Grupo formado por alunos do 1º ano de Desenvolvimento de Sistemas para portfólio de matérias desenvolvidas durante o curso.<br>
+</h1>
 
-Repositório de organização e acesso aos projetos acadêmicos desenvolvidos ao longo do curso técnico em Desenvolvimento de Sistemas.
+<p align="center">
+  <a href="https://github.com/felipebsa">
+    <img
+      alt="Felipe Barbosa Santos"
+      title="Ver perfil de Felipe"
+      src="https://custom-icon-badges.demolab.com/badge/-Felipe%20Barbosa-0D0D0D?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B00"
+    />
+  </a>
+  <a href="https://github.com/Eduardo-Bargueiras">
+    <img
+      alt="Eduardo Antonio de Oliveira Bargueiras"
+      title="Ver perfil de Eduardo"
+      src="https://custom-icon-badges.demolab.com/badge/-Eduardo%20Bargueiras-0D0D0D?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B00"
+    />
+  </a>
+  <a href="https://github.com/FeLaLost">
+    <img
+      alt="Gabriel Fernandes Barbarini"
+      title="Ver perfil de Gabriel"
+      src="https://custom-icon-badges.demolab.com/badge/-Gabriel%20Barbarini-0D0D0D?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B00"
+    />
+  </a>
+  <a href="https://github.com/LAKONSKI">
+    <img
+      alt="Guilherme Miguel Rodrigues Pereira Lakonski"
+      title="Ver perfil de Guilherme"
+      src="https://custom-icon-badges.demolab.com/badge/-Guilherme%20Lakonski-0D0D0D?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B00"
+    />
+  </a>
+</p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0D0D0D&text=Tecnologias%20Utilizadas&fontColor=FF6B00&fontSize=40&fontAlign=50&fontAlignY=40" width="100%"/>
 
-## Integrantes
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="80" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80" />
+</p><br>
 
-- [**Eduardo Antonio de Oliveira Bargueiras**](https://github.com/Eduardo-Bargueiras)
-- [**Felipe Barbosa Santos**](https://github.com/felipebsa)
-- [**Gabriel Fernandes Barbarini**](https://github.com/FeLaLost)
-- [**Guilherme Miguel Rodrigues Pereira Lakonski**](https://github.com/LAKONSKI)
-
----
-
-## Linguagens
-
-<div align="center">
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-</div>
-
----
-
-## Projetos
-
-| Projeto | Descrição | Linguagens |
-|---|---|---|
-| [Portfolio PA (Programação e Algoritmos)](https://github.com/etecvav26-1C2-03/portfolio-pa) | Repositório com exercícios de várias linguagens | C++ e Python |
-| [Portfolio PW (Programação Web)](https://github.com/etecvav26-1C2-03/portfolio-pw) | Repositório com sites feitos por nós | HTML5, CSS3 e JavaScript |
-| [Portfolio SE (Sistemas Embarcados e IoT)](https://github.com/etecvav26-1C2-03/portfolio-se) | Repositório com programas do Arduino | C++ |
-| [Portfolio BD (Banco de Dados)](https://github.com/etecvav26-1C2-03/portifolio-bd) | Repositório com exercícios de DER e MR | SQL |
-
----
-
-## 📈 Nossa Jornada
-
-**Concluído**
-- Lógica de Programação
-- Introdução a HTML e CSS
-- Fundamentos de Sistemas Embarcados
-
-**Estudando**
-- Banco de Dados (SQL)
-- Programação e Algoritmos avançada
-
----
-
-<div align="center">
-
-**Devs' Den** — Aprendendo, construindo e carregando o lagosta juntos. 🦊
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0D0D0D&text=ETEC%20Vasco%20Antônio%20Venchiarutti,%202026&fontColor=FF6B00&fontAlign=50&fontAlignY=76&fontSize=30&section=footer" width="100%"/>
