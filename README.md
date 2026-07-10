@@ -59,7 +59,7 @@
 
 ---
 
-## 📂 Projetos
+## Projetos
 
 | Projeto | Descrição | Linguagens |
 |---|---|---|
