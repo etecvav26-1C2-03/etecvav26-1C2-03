@@ -1,4 +1,4 @@
-# Grupo de Desenvolvimento de Sistemas - ETEC
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Poppins&size=38&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=700&height=70&lines=Devs'+Den;Desenvolvimento+de+Sistemas+%7C+ETECVAV)](https://git.io/typing-svg)
 
 Repositório de organização e acesso aos projetos acadêmicos desenvolvidos ao longo do curso técnico em Desenvolvimento de Sistemas.
 
