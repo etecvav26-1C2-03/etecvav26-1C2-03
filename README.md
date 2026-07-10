@@ -16,6 +16,7 @@
       src="https://custom-icon-badges.demolab.com/badge/-Felipe%20Barbosa-0D0D0D?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B00"
     />
   </a>
+  
   <a href="https://github.com/Eduardo-Bargueiras">
     <img
       alt="Eduardo Antonio de Oliveira Bargueiras"
@@ -23,6 +24,7 @@
       src="https://custom-icon-badges.demolab.com/badge/-Eduardo%20Bargueiras-0D0D0D?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B00"
     />
   </a>
+  
   <a href="https://github.com/FeLaLost">
     <img
       alt="Gabriel Fernandes Barbarini"
@@ -30,6 +32,7 @@
       src="https://custom-icon-badges.demolab.com/badge/-Gabriel%20Barbarini-0D0D0D?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B00"
     />
   </a>
+  
   <a href="https://github.com/LAKONSKI">
     <img
       alt="Guilherme Miguel Rodrigues Pereira Lakonski"
