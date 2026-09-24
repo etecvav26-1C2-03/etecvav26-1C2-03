@@ -42,6 +42,15 @@
   </a>
 </p>
 
+  <a href="https://github.com/CauanSouzaa">
+    <img
+      alt="Cauan Machado de Souza"
+      title="Ver perfil de Guilherme"
+      src="https://custom-icon-badges.demolab.com/badge/-Guilherme%20Lakonski-0D0D0D?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B00"
+    />
+  </a>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FF6B00&text=Tecnologias%20Utilizadas&fontColor=0D0D0D&fontSize=40&fontAlign=50&fontAlignY=40" width="100%"/>
 
 <p align="center">
