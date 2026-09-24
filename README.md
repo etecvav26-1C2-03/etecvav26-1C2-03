@@ -40,7 +40,6 @@
       src="https://custom-icon-badges.demolab.com/badge/-Guilherme%20Lakonski-0D0D0D?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B00"
     />
   </a>
-</p>
 
   <a href="https://github.com/CauanSouzaa">
     <img
@@ -49,7 +48,6 @@
       src="https://custom-icon-badges.demolab.com/badge/-Cauan%20Machado-0D0D0D?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B00"
     />
   </a>
-</p>
 
   <a href="https://github.com/richard426278">
     <img
